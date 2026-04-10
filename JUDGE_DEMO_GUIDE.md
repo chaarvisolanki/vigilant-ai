@@ -1,4 +1,4 @@
-# Vigilant-AI — Live Demo Guide for Judges
+# Vigilant-AI — Live Demo Guide
 # Cybersecurity & AI Safety Hackathon 2025-26
 # Step-by-step terminal commands with expected outputs
 
