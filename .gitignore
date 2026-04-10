@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+*.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Garak / scan results (keep the dir but ignore contents)
+garak_results/*.json
+garak_results/*.txt
+!garak_results/.gitkeep
+
+# Environment secrets — NEVER commit API keys
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Models (downloaded)
+models/
+.cache/
